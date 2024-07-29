@@ -1,0 +1,92 @@
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\backend.exe
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\backend.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\Snappier.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.csproj.Up2Date
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\Shreyas Pathak\Desktop\assignment\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\backend.exe
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\backend.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\DnsClient.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\Snappier.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.csproj.Up2Date
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\DELL\Downloads\assignment-master\assignment-master\backend\obj\Debug\net8.0\ref\backend.dll
