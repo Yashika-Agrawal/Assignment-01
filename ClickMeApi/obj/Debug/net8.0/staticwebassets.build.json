@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "7/yvsnDRTixX0vVer35KSjS1HzfM4rGxA/gc1emwSdw=",
-  "Source": "backend",
-  "BasePath": "_content/backend",
+  "Hash": "b1naoviXjaj55lV3a8xMpQnMAK3VayrgBDEMzgoYvp0=",
+  "Source": "ClickMeApi",
+  "BasePath": "_content/ClickMeApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jIZ5KHHpdEZjkTrMu83Z7QdK3pa+lySNUWSeXzUSNCrho++MESab688LoYVB/0k+u0lXl5TSF5eYVbZBoUAZsQ==",
+  "dgSpecHash": "qT0NDVWa26fXGl9s1BH+MdqfUZR7ElGypALM07bgtX0LN7N0Gw5ySCLvXP1fpLV1hwUFtbqEQBW3OpPThIymnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Downloads\\assignment-master\\assignment-master\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\Assignment-01\\ClickMeApi\\ClickMeApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

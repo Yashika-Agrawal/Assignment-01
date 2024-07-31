@@ -23,7 +23,7 @@ namespace ClickMeApi.Controllers
                 return BadRequest("ClickAction object is null");
             }
 
-            // Ensure Id is not set by the client
+            
             clickAction.Id = null;
             clickAction.UtcDateTime = DateTime.UtcNow;
 
