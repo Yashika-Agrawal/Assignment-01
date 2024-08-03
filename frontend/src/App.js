@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import axios from "axios";
-import "./App.css"; // Import the CSS file
+import ActionTable from "./components/ActionTable";
+import Button from "./components/Button";
+import "./App.css";
 
 const App = () => {
   const [actions, setActions] = useState([]);
@@ -11,7 +13,7 @@ const App = () => {
     try {
       const res = await axios.post("http://localhost:5280/api/ClickAction", {
         username: username,
-        id: Math.floor(Math.random() * 1000).toString(), // Convert id to string
+        id: Math.floor(Math.random() * 1000).toString(), 
         actionName: actionName,
       });
       console.log("response", res);
@@ -35,34 +37,11 @@ const App = () => {
   return (
     <div className="container">
       <div className="box">
-        <button className="button" onClick={handleClick}>
-          Click Me!
-        </button>
+        <Button onClick={handleClick} text="Click Me!" />
       </div>
       <div className="box">
-        <button className="button" onClick={handleGetActions}>
-          Get Me!
-        </button>
-        {actions.length > 0 && (
-          <table className="actions-table">
-            <thead>
-              <tr>
-                <th>UTC DateTime</th>
-                <th>Username</th>
-                <th>Action Name</th>
-              </tr>
-            </thead>
-            <tbody>
-              {actions.map((action) => (
-                <tr key={action.id}>
-                  <td>{new Date(action.utcDateTime).toLocaleString()}</td>
-                  <td>{action.username}</td>
-                  <td>{action.actionName}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        )}
+        <Button onClick={handleGetActions} text="Get Me!" />
+        {actions.length > 0 && <ActionTable actions={actions} />}
       </div>
     </div>
   );
