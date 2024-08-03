@@ -4,3 +4,5 @@ ClickMeApi is a backend API built with ASP.NET Core and MongoDB. It allows you t
 
 Snapshots of application:
 ![alt text](images/image1.png)
+![alt text](images/image2.png)
+![alt text](images/image3.png)
