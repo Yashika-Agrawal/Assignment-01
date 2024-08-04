@@ -8,3 +8,26 @@ ClickMeApi/obj/Debug/net8.0/ref/ClickMeApi.dll
 ClickMeApi/obj/Debug/net8.0/ClickMeApi.AssemblyInfoInputs.cache
 ClickMeApi/obj/Debug/net8.0/ClickMeApi.dll
 ClickMeApi/obj/Debug/net8.0/refint/ClickMeApi.dll
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore other generated files
+*.log
+*.vs/
+*.vscode/
+*.idea/
+
+# Ignore DLL files (if you have specific reasons to)
+*.dll
+
+# Ignore other potentially sensitive files
+appsettings.Development.json
+appsettings.Production.json
