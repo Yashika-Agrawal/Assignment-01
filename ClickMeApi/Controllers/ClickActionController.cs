@@ -1,6 +1,7 @@
 using ClickMeApi.Models;
 using ClickMeApi.Services;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace ClickMeApi.Controllers
 {
@@ -8,9 +9,9 @@ namespace ClickMeApi.Controllers
     [ApiController]
     public class ClickActionController : ControllerBase
     {
-        private readonly ClickActionService _clickActionService;
+        private readonly IClickActionService _clickActionService;
 
-        public ClickActionController(ClickActionService clickActionService)
+        public ClickActionController(IClickActionService clickActionService)
         {
             _clickActionService = clickActionService;
         }
@@ -23,7 +24,6 @@ namespace ClickMeApi.Controllers
                 return BadRequest("ClickAction object is null");
             }
 
-            
             clickAction.Id = null;
             clickAction.UtcDateTime = DateTime.UtcNow;
 

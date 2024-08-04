@@ -1,11 +1,11 @@
 using MongoDB.Driver;
 using ClickMeApi.Models;
 using ClickMeApi.Settings;
-using MongoDB.Bson;
+using System.Collections.Generic;
 
 namespace ClickMeApi.Services
 {
-    public class ClickActionService
+    public class ClickActionService : IClickActionService
     {
         private readonly IMongoCollection<ClickAction> _clickActions;
 

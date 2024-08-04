@@ -11,7 +11,8 @@ builder.Services.Configure<ClickActionDatabaseSettings>(
 builder.Services.AddSingleton<IClickActionDatabaseSettings>(sp =>
     sp.GetRequiredService<IOptions<ClickActionDatabaseSettings>>().Value);
 
-builder.Services.AddSingleton<ClickActionService>();
+// Register the service with the interface
+builder.Services.AddSingleton<IClickActionService, ClickActionService>();
 
 // Configure CORS
 builder.Services.AddCors(options =>
