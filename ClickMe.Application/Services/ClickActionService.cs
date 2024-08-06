@@ -1,6 +1,6 @@
 using MongoDB.Driver;
 using ClickMe.Application.Models; 
-using ClickMe.Application.Settings; 
+using ClickMe.Application.DatabaseSettings; 
 using System.Collections.Generic;
 using System.Linq;
 

@@ -1,4 +1,4 @@
-namespace ClickMe.Application.Interfaces
+namespace ClickMe.Application.DatabaseSettings
 {
     public interface IClickActionDatabaseSettings
     {
