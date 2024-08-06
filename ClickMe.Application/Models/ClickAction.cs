@@ -1,8 +1,9 @@
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
+using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace ClickMeApi.Models
+namespace ClickMe.Application.Models 
 {
     public class ClickAction : IClickAction
     {

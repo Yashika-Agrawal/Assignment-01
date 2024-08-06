@@ -1,4 +1,4 @@
-namespace ClickMeApi.Settings
+namespace ClickMe.Application.Settings
 {
     public class ClickActionDatabaseSettings : IClickActionDatabaseSettings
     {
@@ -6,5 +6,4 @@ namespace ClickMeApi.Settings
         public string ConnectionString { get; set; }
         public string DatabaseName { get; set; }
     }
-
 }

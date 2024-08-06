@@ -1,9 +1,9 @@
-using ClickMeApi.Models;
-using ClickMeApi.Services;
+using ClickMe.Application.Models; 
+using ClickMe.Application.Services; 
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
-namespace ClickMeApi.Controllers
+namespace ClickMe.API.Controllers 
 {
     [Route("api/[controller]")]
     [ApiController]

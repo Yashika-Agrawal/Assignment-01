@@ -1,9 +1,10 @@
 using MongoDB.Driver;
-using ClickMeApi.Models;
-using ClickMeApi.Settings;
+using ClickMe.Application.Models; 
+using ClickMe.Application.Settings; 
 using System.Collections.Generic;
+using System.Linq;
 
-namespace ClickMeApi.Services
+namespace ClickMe.Application.Services 
 {
     public class ClickActionService : IClickActionService
     {
@@ -20,7 +21,7 @@ namespace ClickMeApi.Services
             _clickActions.Find(action => true).ToList();
 
         public ClickAction Get(string id) =>
-            _clickActions.Find<ClickAction>(action => action.Id == id).FirstOrDefault();
+            _clickActions.Find(action => action.Id == id).FirstOrDefault();
 
         public ClickAction Create(ClickAction action)
         {

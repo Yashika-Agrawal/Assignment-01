@@ -1,7 +1,7 @@
-using ClickMeApi.Models;
+using ClickMe.Application.Models; 
 using System.Collections.Generic;
 
-namespace ClickMeApi.Services
+namespace ClickMe.Application.Services 
 {
     public interface IClickActionService
     {
