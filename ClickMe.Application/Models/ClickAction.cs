@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ClickMe.Application.Models 
 {
-    public class ClickAction : IClickAction
+    public class ClickAction 
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
