@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import axios from "axios";
+import api from "./api/api";
 import ActionTable from "./components/ActionTable";
 import Button from "./components/Button";
 import "./App.css";
@@ -8,14 +8,6 @@ const App = () => {
   const [actions, setActions] = useState([]);
   const [username] = useState("user1");
   const [actionName] = useState("button-clicked");
-
-  const API_BASE_URL =
-    process.env.REACT_APP_API_BASE_URL || "http://localhost:5280";
-
-  // Create custom axios instance
-  const api = axios.create({
-    baseURL: API_BASE_URL,
-  });
 
   const handleClick = async () => {
     try {
