@@ -8,12 +8,20 @@ const App = () => {
   const [actions, setActions] = useState([]);
   const [username] = useState("user1");
   const [actionName] = useState("button-clicked");
-  const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || "http://localhost:5280";
+
+  const API_BASE_URL =
+    process.env.REACT_APP_API_BASE_URL || "http://localhost:5280";
+
+  // Create custom axios instance
+  const api = axios.create({
+    baseURL: API_BASE_URL,
+  });
+
   const handleClick = async () => {
     try {
-      const res = await axios.post(`${API_BASE_URL}/api/ClickAction`,  {
+      const res = await api.post("/api/ClickAction", {
         username: username,
-        id: Math.floor(Math.random() * 1000).toString(), 
+        id: Math.floor(Math.random() * 1000).toString(),
         actionName: actionName,
       });
       console.log("response", res);
@@ -26,7 +34,7 @@ const App = () => {
 
   const handleGetActions = async () => {
     try {
-      const response = await axios.get(`${API_BASE_URL}/api/ClickAction`);
+      const response = await api.get("/api/ClickAction");
       setActions(response.data);
     } catch (error) {
       console.error(error);
